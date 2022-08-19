@@ -1,7 +1,7 @@
 ## R script for generating datasets from raw data and analysis of single libraries
 ## Author: Julia Steger
 ## Raw sequencing data is available from GEO
-## process raw data with CellRanger pipeline 
+## process raw data with CellRanger (Vs. 3.1.0) pipeline
 ## use default parameters and --nosecondary --force-cells=7000 
 
 library("Seurat")
